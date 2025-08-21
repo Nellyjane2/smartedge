@@ -443,7 +443,7 @@ footer img{
 
 @media (max-width: 930px) {
     .nav-link{
-        gap: 1.7rem;
+        gap: 1.5rem;
     }
     .smart-button{
         margin: 3rem 0 1rem 0.5rem;
@@ -534,8 +534,13 @@ footer img{
         font-size: 1.7rem;
         padding: 1rem 0;
     }
+    .empower1 h4{
+    text-align: center;
+    font-size: 1rem;
+    }
     .empower3 p{
         text-align: left;
+        font-size: 0.8rem;
     }
     .button3{
         margin-top: 1rem;
@@ -546,10 +551,6 @@ footer img{
     }
     .testimonial-card{
         padding: 0.5rem;
-        width: 100%;
-    }
-    .testimonial-card p{
-        font-size: 1.3rem;
         width: 100%;
     }
     .testimonial-card img{
